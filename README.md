@@ -1,7 +1,7 @@
 # ED-ProjetoFinal — Sistema de Lista de Espera Escolar
 
 Projeto Final da disciplina **Estrutura de Dados** — FGV, Análise e Desenvolvimento de Sistemas.
-Autor: **Vinicius da Costa Chaves**
+Autor: **Vinicius Costa**
 
 Sistema de cadastro da lista de espera de uma escola no **Guarujá (SP)**, usado em sequência por três perfis de funcionários. Cada perfil utiliza uma estrutura de dados diferente, escolhida de acordo com o tipo de operação que realiza.
 
